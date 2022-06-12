@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _doc
+  output-dir: docs
 
 website:
   title: "Datenfragen"
